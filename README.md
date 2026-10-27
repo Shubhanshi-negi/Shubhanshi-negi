@@ -3,7 +3,7 @@
 
 <h1>Hey, I'm Shubhanshi 👋</h1>
 
------
+
 <h3>Full Stack Web Developer | AI Engineer</h3>
 
 <p>I build modern web applications and explore how AI can solve real-world problems.</p>
@@ -22,3 +22,14 @@
 </p>
 
 <hr>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Shubhanshi-negi/output/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Shubhanshi-negi/output/output/github-snake.svg">
+    <img alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/Shubhanshi-negi/output/output/github-snake.svg">
+  </picture>
+</div>
